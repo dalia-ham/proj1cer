@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import './style2.css'; // تأكد من أن المسار صحيح
+import './style2.css'; 
 
 const Registration = () => {
   return (
